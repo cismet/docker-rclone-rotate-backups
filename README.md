@@ -1,6 +1,12 @@
 # docker-rclone-rotate-backups
 simple image for rotating backups on a remote directory mounted with rclone
 
+see also:
+* [farmcoolcow/rclone](https://github.com/coolcow/docker_rclone) (the base image used in this image)
+* [rclone](https://github.com/ncw/rclone)
+* [rotate-backups](https://pypi.org/project/rotate-backups)
+
+
 ---
 
 example usage:
